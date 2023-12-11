@@ -1,0 +1,11 @@
+lang: en
+
+home:
+  welcome: Hello, I am a person that writes stuff related  to FOSS.
+
+metas:
+  site: FOSS Blog
+  description: A blog for sharing a topic related to FOSS
+  twitter: "@santhoshveerece"
+  lang: "=lang"
+  generator: true
