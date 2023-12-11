@@ -10,3 +10,5 @@ menu:
 ## Santhohs Veer
 
 Open Source - FOSS - Automations stuffs and Cyclist.
+
+Follow me at - <a rel="me" href="https://fosstodon.org/@santhosh" target="_blank">fosstodon</a>
