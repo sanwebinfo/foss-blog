@@ -7,8 +7,8 @@ menu:
   order: 2
 ---
 
-## Santhohs Veer
+This is Santhosh Veer  
 
-Open Source - FOSS - Automations stuffs and Cyclist.
+Blogger - Open Source - FOSS - Automations stuffs and Cyclist.  
 
-Follow me at - <a rel="me" href="https://fosstodon.org/@santhosh" target="_blank">fosstodon</a>
+Follow me at - <a rel="me" href="https://fosstodon.org/@santhosh" target="_blank">fosstodon</a>  
