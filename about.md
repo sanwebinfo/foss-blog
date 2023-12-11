@@ -9,6 +9,6 @@ menu:
 
 This is Santhosh Veer  
 
-Blogger - Open Source - FOSS - Automations stuffs and Cyclist.  
+Blogger - Open Source - FOSS - Automation stuffs and Cyclist/Runner.  
 
 Follow me at - <a rel="me" href="https://fosstodon.org/@santhosh" target="_blank">fosstodon</a>  

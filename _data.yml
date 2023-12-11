@@ -1,7 +1,7 @@
 lang: en
 
 home:
-  welcome: Hello, I am a person that writes stuff related  to FOSS.
+  welcome: FOSS ✅ | Automations 🔌 | Sports 🥎
 
 metas:
   site: FOSS Blog
@@ -9,3 +9,5 @@ metas:
   twitter: "@santhoshveerece"
   lang: "=lang"
   generator: true
+  image: https://sanweb.info/wp-content/uploads/2020/05/san-status-thumb.png
+  icon: https://sanweb.info/wp-content/uploads/2020/05/cropped-Icon-512-1-32x32.png
