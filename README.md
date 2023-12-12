@@ -1,6 +1,8 @@
 # FOSS Blog
 
-A blog for sharing a topic related to FOSS, Sports and Random things.
+[![Build and Publish](https://github.com/sanwebinfo/foss-blog/actions/workflows/build.yml/badge.svg)](https://github.com/sanwebinfo/foss-blog/actions/workflows/build.yml) [![cf-pages](https://github.com/sanwebinfo/foss-blog/actions/workflows/deploy.yml/badge.svg)](https://github.com/sanwebinfo/foss-blog/actions/workflows/deploy.yml)  
+
+A blog for sharing a topic related to FOSS, Sports and Random things.  
 
 ## Tech Stack
 

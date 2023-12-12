@@ -24,6 +24,7 @@ Create a Simple blog in 5 Minutes using lume the static site generator for deno.
 - Github account
 - setup any static site Hosting services for host the website and content
 - Connect github and Hosting services for auto deployment
+- lume theme - <https://github.com/lumeland/theme-simple-blog>
 
 ## Create Blog
 
