@@ -1,6 +1,6 @@
 ---
 title: South Africa vs India, 2nd T20I
-date: 2023-12-12T18:38:38.790+05:30
+date: 2023-12-12T18:44:12.420+05:30
 author: Santhosh Veer
 tags:
   - Sports
@@ -14,11 +14,7 @@ comments:
 
 📑 Status - Match starts at Dec 12, 15:00 GMT
 
-<br />
+<!--more-->
 
-***
 
-📝 Last Updated on : 12/12/2023, 6:38:38 PM
-
-***
-
+📝 Last Updated on : 12/12/2023, 6:44:12 PM
