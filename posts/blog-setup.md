@@ -22,8 +22,8 @@ Create a Simple blog in 5 Minutes using lume the static site generator for deno.
 ## Setup
 
 - Github account
-- setup kinsta account for static content hosting
-- Connect github and kinsta for auto deployment
+- setup any static site Hosting services for host the website and content
+- Connect github and Hosting services for auto deployment
 
 ## Create Blog
 
@@ -41,7 +41,7 @@ export default site;
 ```
 
 - Post your content on `/posts` folder
-- push and deploy to github and it also deploy and build content to kinsta
+- push and deploy to github and it also deploy and build content to Hosting services
 - Done
 
 it does not take much time to set up but it takes a few more minutes to understand the site setup and deployment.

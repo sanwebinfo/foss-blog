@@ -20,7 +20,7 @@ export default site;
 
 - Vento template engine
 - Markdown
-- Free Static Site Hosting at Kinsta - <https://github.com/kinsta/hello-world-lume>
+- Free Static Site Hosting at Cloudflare Pages
 
 ## LICENSE
 
