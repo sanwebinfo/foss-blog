@@ -1,20 +1,26 @@
 ---
-title: South Africa vs India, 2nd T20I
-date: 2023-12-12T18:44:12.420+05:30
+title: "South Africa vs India, 2nd T20I"
+date: 2023-12-12T20:44:33.995+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: South Africa vs India, 2nd T20I - Match starts at Dec 12, 15:00 GMT.
+  description: IND - 6/2 (2) - South Africa opt to bowl.
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-✅ South Africa vs India, 2nd T20I
+🔴 Live Score - IND - 6/2 (2)  
 
-📑 Status - Match starts at Dec 12, 15:00 GMT
+📊 Run Rate - CRR: 3.00  
+
+✊ Current Batsman - Tilak Varma* - 4(7)  
+
+✊ Current Bowler - Marco Jansen* - 1 Over 3 Run - 1 Wicket  
+
+📑 Status - South Africa opt to bowl
 
 <!--more-->
 
 
-📝 Last Updated on : 12/12/2023, 6:44:12 PM
+📝 Last Updated on : 12/12/2023, 8:44:33 PM
