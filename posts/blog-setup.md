@@ -6,7 +6,7 @@ author: Santhosh Veer
 tags:
   - FOSS
 comments:
-  src: https://fosstodon.org/@santhosh/111563194038218871
+  src: https://fosstodon.org/@santhosh/111566294265249397
 ---
 
 Create a Simple blog in 5 Minutes using lume the static site generator for deno.  
