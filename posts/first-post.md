@@ -1,5 +1,6 @@
 ---
 title: FOSS Blog - First Post
+description: A blog for sharing a topic related to FOSS, Sports and Random things
 date: 2023-12-11T10:01:50
 author: Santhosh Veer
 tags:
@@ -8,7 +9,7 @@ comments:
   src: https://fosstodon.org/@santhosh/111563194038218871
 ---
 
-First post -  A blog for sharing a topic related to FOSS
+A blog for sharing a topic related to FOSS, Sports and Random things.
 
 <!--more-->
 

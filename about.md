@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.vto
 title: About Me
-description: Santhosh Veer - A blog for sharing a topic related to FOSS
+description: Santhosh Veer - A blog for sharing a topic related to FOSS, Sports and Random things
 menu:
   visible: true
   order: 2

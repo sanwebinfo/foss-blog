@@ -1,7 +1,7 @@
 {
   "name": "foss-blog",
   "version": "1.0.0",
-  "description": "A blog for sharing a topic related to FOSS.",
+  "description": "A blog for sharing a topic related to FOSS, Sports and Random Stuffs.",
   "main": "_config.js",
   "scripts": {
     "build": "deno task lume",

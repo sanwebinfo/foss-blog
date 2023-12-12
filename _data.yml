@@ -1,11 +1,11 @@
 lang: en
 
 home:
-  welcome: FOSS ✅ | Automations 🔌 | Sports 🥎
+  welcome: FOSS ✅ | Random things 🦄 | Sports 🥎
 
 metas:
   site: FOSS Blog
-  description: A blog for sharing a topic related to FOSS
+  description: A blog for sharing a topic related to FOSS, Sports and Random things
   twitter: "@santhoshveerece"
   lang: "=lang"
   generator: true

@@ -1,10 +1,11 @@
 # FOSS Blog
 
-A blog for sharing a topic related to FOSS.
+A blog for sharing a topic related to FOSS, Sports and Random things.
 
 ## Tech Stack
 
-- A simple and minimal `lume.land` theme - <https://github.com/lumeland/theme-simple-blog>  
+- Deno and Lume static site generator
+- A simple and minimal `lume` theme - <https://github.com/lumeland/theme-simple-blog>  
 
 ```js
 import lume from "lume/mod.ts";
