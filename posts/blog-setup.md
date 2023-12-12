@@ -1,10 +1,11 @@
 ---
 title: Create a Simple blog in 5 Minutes
-description: Create a Simple blog in 5 Minutes using lume the static site generator for deno
 date: 2023-12-12T12:57:50
 author: Santhosh Veer
 tags:
   - FOSS
+metas:
+  description: Create a Simple blog in 5 Minutes using lume the static site generator for deno.
 comments:
   src: https://fosstodon.org/@santhosh/111566294265249397
 ---
