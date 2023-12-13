@@ -1,26 +1,20 @@
 ---
-title: "South Africa vs India, 2nd T20I"
-date: 2023-12-12T22:58:27.883+05:30
+title: South Africa vs India, 2nd T20I
+date: 2023-12-13T06:32:37.264+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: IND - 180/7 (19.3) - Rain stops play.
+  description: South Africa vs India, 2nd T20I - South Africa won by 5 wkts (DLS method) .
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - IND - 180/7 (19.3)  
+✅ South Africa vs India, 2nd T20I
 
-📊 Run Rate - CRR: 9.23  
-
-✊ Current Batsman - Mohammed Siraj* - 0(0)  
-
-✊ Current Bowler - Gerald Coetzee* - 3.3 Over 32 Run - 3 Wicket  
-
-📑 Status - Rain stops play
+📑 Status - South Africa won by 5 wkts (DLS method) 
 
 <!--more-->
 
 
-📝 Last Updated on : 12/12/2023, 10:58:27 PM
+📝 Last Updated on : 12/13/2023, 6:32:37 AM
