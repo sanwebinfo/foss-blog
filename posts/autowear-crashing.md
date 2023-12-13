@@ -8,10 +8,12 @@ metas:
   description: Autowear Latest Update 3.2.13 crashing and Stop Working.
   image: https://ogimageblog.vercel.app/api/og?title=Autowear%20Crash%20%F0%9F%A4%AF
 comments:
-  src: https://mastodon.social/@mskian/111567563137946177
+  src: [https://mastodon.social/@mskian/111567563137946177](https://mastodon.social/@mskian/111573505249830165)
 ---
 
 Autowear Latest Update 3.2.13 crashing and Stop Working.
+
+<!--more-->
 
 ## Reasons
 
