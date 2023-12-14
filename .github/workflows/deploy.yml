@@ -28,6 +28,7 @@ jobs:
 
       - name: Build site
         run: |
+          deno task reload
           deno task build --location=https://foss.sanweb.info/
       - name: Deploy
         uses: cloudflare/wrangler-action@v3.3.2

@@ -27,4 +27,5 @@ jobs:
 
       - name: Build site
         run: |
+          deno task reload
           deno task build --location=https://foss.sanweb.info/
