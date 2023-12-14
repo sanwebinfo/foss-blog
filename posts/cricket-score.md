@@ -1,20 +1,26 @@
 ---
-title: South Africa vs India, 3rd T20I
-date: 2023-12-14T18:00:06.560+05:30
+title: "South Africa vs India, 3rd T20I"
+date: 2023-12-14T20:39:36.205+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: South Africa vs India, 3rd T20I - Match starts at Dec 14, 15:00 GMT
+  description: IND - 18/0 (1.2) - South Africa opt to bowl
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-✅ South Africa vs India, 3rd T20I
+🔴 Live Score - IND - 18/0 (1.2)  
 
-📑 Status - Match starts at Dec 14, 15:00 GMT
+📊 Run Rate - CRR: 13.50  
+
+✊ Current Batsman - Yashasvi Jaiswal* - 5(4)  
+
+✊ Current Bowler - Aiden Markram* - 0.2 Over 4 Run - 0 Wicket  
+
+📑 Status - South Africa opt to bowl
 
 <!--more-->
 
-📝 Last Updated on : 12/14/2023, 6:00:06 PM
+📝 Last Updated on : 12/14/2023, 8:39:36 PM
