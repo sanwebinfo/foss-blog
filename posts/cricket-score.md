@@ -1,6 +1,6 @@
 ---
 title: South Africa vs India, 2nd T20I
-date: 2023-12-14T11:21:50.518+05:30
+date: 2023-12-14T11:24:16.977+05:30
 author: Santhosh Veer
 tags:
   - Sports
@@ -17,4 +17,4 @@ comments:
 
 <!--more-->
 
-📝 Last Updated on : 12/14/2023, 11:21:50 AM
+📝 Last Updated on : 12/14/2023, 11:24:16 AM
