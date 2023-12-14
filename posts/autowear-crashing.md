@@ -17,7 +17,9 @@ Autowear Latest Update 3.2.13 crashing and Stop Working.
 
 ## Reasons
 
-Developer Just update the issues related to crashing  and not starting up on the Reddit forum <https://www.reddit.com/r/tasker/comments/18goshf/dev_autowear_3213_is_finally_out_on_google_play/?rdt=37998>
+Developer Just update the issues related to crashing  and not starting up on the Reddit forum
+
+**Check** - [Autowear Reddit Post](https://www.reddit.com/r/tasker/comments/18goshf/dev_autowear_3213_is_finally_out_on_google_play/?rdt=37998){#external}
 
 Many users facing this issue.
 This morning I Just updated the app on Both My Mobile and Watch after the update I can't access the Autowear actions on the watch also Screen fetching is not working in Autowear Mobile app.

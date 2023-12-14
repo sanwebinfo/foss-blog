@@ -10,3 +10,52 @@ metas:
   lang: "=lang"
   generator: true
   image: https://sanweb.info/wp-content/uploads/2020/05/san-status-thumb.png
+
+extra_head: |
+  <style>
+    body {
+      line-height: 1.6;
+    }
+    .page-title {
+      font-size: 25px;
+      padding-bottom: 20px;
+      word-wrap: break-word;
+      line-height: 1.6;
+    }
+    .post-title {
+      font-size: 27px;
+      padding-bottom: 10px;
+      word-wrap: break-word;
+      line-height: 1.6;
+    }
+  </style>
+  <script type='text/javascript'>
+   function externalsource() {
+   var x = document.getElementsByTagName("a");
+   var i;
+   for (i = 0; i < x.length; i++) {
+    if (location.hostname != x[i].hostname) {
+      x[i].rel = "nofollow noopener";
+      x[i].target = "_blank";
+      x[i].title = "Click to open in new window";
+    }
+   }
+  }
+  mft = setTimeout("externalsource()", 0);
+  function LoadEvent(func) {
+    var oldonload = window.onload;
+    if (typeof window.onload != "function") {
+    window.onload = func;
+     } else {
+      window.onload = function () {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    };
+  }
+  }
+  LoadEvent(function () {
+  externalsource();
+  });
+  </script>
