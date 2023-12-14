@@ -1,20 +1,20 @@
 ---
-title: South Africa vs India, 2nd T20I
-date: 2023-12-14T11:24:16.977+05:30
+title: South Africa vs India, 3rd T20I
+date: 2023-12-14T18:00:06.560+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: South Africa vs India, 2nd T20I - South Africa won by 5 wkts (DLS method) 
+  description: South Africa vs India, 3rd T20I - Match starts at Dec 14, 15:00 GMT
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-✅ South Africa vs India, 2nd T20I
+✅ South Africa vs India, 3rd T20I
 
-📑 Status - South Africa won by 5 wkts (DLS method) 
+📑 Status - Match starts at Dec 14, 15:00 GMT
 
 <!--more-->
 
-📝 Last Updated on : 12/14/2023, 11:24:16 AM
+📝 Last Updated on : 12/14/2023, 6:00:06 PM
