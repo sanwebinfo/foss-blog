@@ -1,26 +1,26 @@
 ---
 title: "South Africa vs India, 3rd T20I"
-date: 2023-12-14T22:51:24.584+05:30
+date: 2023-12-14T23:26:41.688+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: RSA - 22/1 (3) - South Africa need 180 runs
+  description: RSA - 67/4 (9.1) - South Africa need 135 runs in 65 balls
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - RSA - 22/1 (3)  
+🔴 Live Score - RSA - 67/4 (9.1)  
 
-📊 Run Rate - CRR: 7.33  
+📊 Run Rate - CRR: 7.31  
 
-✊ Current Batsman - Aiden Markram* - 10(3)  
+✊ Current Batsman - Donovan Ferreira* - 5(7)  
 
-✊ Current Bowler - Mukesh Kumar* - 1 Over 14 Run - 1 Wicket  
+✊ Current Bowler - Kuldeep Yadav* - 0.1 Over 1 Run - 0 Wicket  
 
-📑 Status - South Africa need 180 runs
+📑 Status - South Africa need 135 runs in 65 balls
 
 <!--more-->
 
-📝 Last Updated on : 12/14/2023, 10:51:24 PM
+📝 Last Updated on : 12/14/2023, 11:26:41 PM
