@@ -1,6 +1,6 @@
 ---
-title: Autowear crashing Don't Update it
-date: 2023-12-14T11:23:15.977+05:30
+title: [FIXED] Autowear crashing Don't Update it
+date: 2023-12-15T11:07:18.811+05:30
 author: Santhosh Veer
 tags:
   - Tech
@@ -26,3 +26,5 @@ This morning I Just updated the app on Both My Mobile and Watch after the update
 later I searched about this issue on Reddit and found the developer's post about this issue and update.
 
 Kindly don't update the app from the Play Store wait for some time to get the patched version or dowload the Patched APK directly and update it.
+
+**it's fixed now** Update the latest version from Google play store.
