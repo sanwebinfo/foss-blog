@@ -1,26 +1,26 @@
 ---
 title: "South Africa vs India, 1st Test - Live Cricket Score"
-date: 2023-12-26T17:33:06.924+05:30
+date: 2023-12-26T18:57:23.865+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "IND 133/6 (37.2) - Day 1: 2nd Session"
+  description: "IND 176/7 (50) - Day 1: Tea Break"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - IND 133/6 (37.2)  
+🔴 Live Score - IND 176/7 (50)  
 
-📊 Run Rate - CRR: 3.56  
+📊 Run Rate - CRR: 3.52  
 
-✊ Current Batsman - KL Rahul - 14(27)  
+✊ Current Batsman - KL Rahul - 39(71)  
 
-✊ Current Bowler - Gerald Coetzee - 7.2 Over 28 Run - 0 Wicket  
+✊ Current Bowler - Nandre Burger - 12 Over 39 Run - 2 Wicket  
 
-📑 Status - Day 1: 2nd Session
+📑 Status - Day 1: Tea Break
 
 <!--more-->
 
-📝 Last Updated on : 12/26/2023, 5:33:06 PM
+📝 Last Updated on : 12/26/2023, 6:57:23 PM
