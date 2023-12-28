@@ -1,26 +1,26 @@
 ---
 title: "South Africa vs India, 1st Test - Live Cricket Score"
-date: 2023-12-27T21:19:04.625+05:30
+date: 2023-12-28T14:06:04.219+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "RSA 256/5 (66) - Day 2: Stumps - South Africa lead by 11 runs"
+  description: "RSA 278/5 (73.4) - Day 3: 1st Session - South Africa lead by 33 runs"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - RSA 256/5 (66)  
+🔴 Live Score - RSA 278/5 (73.4)  
 
-📊 Run Rate - CRR: 3.88  
+📊 Run Rate - CRR: 3.77  
 
-✊ Current Batsman - Marco Jansen - 3(13)  
+✊ Current Batsman - Dean Elgar - 146(225)  
 
-✊ Current Bowler - Prasidh Krishna - 15 Over 61 Run - 1 Wicket  
+✊ Current Bowler - Ravichandran Ashwin - 8.4 Over 21 Run - 0 Wicket  
 
-📑 Status - Day 2: Stumps - South Africa lead by 11 runs
+📑 Status - Day 3: 1st Session - South Africa lead by 33 runs
 
 <!--more-->
 
-📝 Last Updated on : 12/27/2023, 9:19:04 PM
+📝 Last Updated on : 12/28/2023, 2:06:04 PM
