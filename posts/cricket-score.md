@@ -1,26 +1,26 @@
 ---
 title: "South Africa vs India, 2nd Test - Live Cricket Score"
-date: 2024-01-03T20:52:08.315+05:30
+date: 2024-01-03T21:38:25.801+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "RSA 55 & 45/2 (15) - Day 1: 3rd Session - South Africa trail by 53 runs"
+  description: "RSA 55 & 62/3 (17) - Day 1: Stumps - South Africa trail by 36 runs"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - RSA 55 & 45/2 (15)  
+🔴 Live Score - RSA 55 & 62/3 (17)  
 
-📊 Run Rate - CRR: 3  
+📊 Run Rate - CRR: 3.65  
 
-✊ Current Batsman - Tristan Stubbs - 1(12)  
+✊ Current Batsman - David Bedingham - 7(6)  
 
-✊ Current Bowler - Jasprit Bumrah - 5 Over 21 Run - 0 Wicket  
+✊ Current Bowler - Mukesh Kumar - 6 Over 25 Run - 2 Wicket  
 
-📑 Status - Day 1: 3rd Session - South Africa trail by 53 runs
+📑 Status - Day 1: Stumps - South Africa trail by 36 runs
 
 <!--more-->
 
-📝 Last Updated on : 1/3/2024, 8:52:08 PM
+📝 Last Updated on : 1/3/2024, 9:38:25 PM
