@@ -1,7 +1,8 @@
 {
     "imports": {
-      "lume/": "https://deno.land/x/lume@v2.0.1/"
+      "lume/": "https://deno.land/x/lume@v2.0.2/"
     },
+    "lock": false,
     "tasks": {
       "build": "deno task lume",
       "serve": "deno task lume -s",
