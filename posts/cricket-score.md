@@ -1,6 +1,6 @@
 ---
 title: "South Africa vs India, 2nd Test - Live Cricket Score"
-date: 2024-01-09T19:59:46.577+05:30
+date: 2024-01-10T07:02:14.734+05:30
 author: Santhosh Veer
 tags:
   - Sports
@@ -17,4 +17,4 @@ comments:
 
 <!--more-->
 
-📝 Last Updated on : 1/9/2024, 7:59:46 PM
+📝 Last Updated on : 1/10/2024, 7:02:14 AM
