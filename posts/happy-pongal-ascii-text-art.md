@@ -8,7 +8,7 @@ metas:
   description: "Happy Pongal ASCII Text Art Greetings - Happy Pongal ASCII Text Art in Linux Terminal."
   image: "/img/happy-pongal-ascii-text-art-image.jpg"
 comments:
-  src: https://mastodon.social/@mskian/111747549955574389
+  src: https://mastodon.social/@mskian/111747532458682899
 ---
 
 Happy Pongal Wishes 😃
