@@ -1,0 +1,8 @@
+transformImages:
+  - resize: [250, 250]
+    suffix: -small
+    format: webp
+  - resize: [2000, 2000]
+    format: webp
+  - resize: [2000, 2000]
+    format: jpg
