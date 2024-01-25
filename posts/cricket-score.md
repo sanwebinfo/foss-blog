@@ -1,26 +1,26 @@
 ---
 title: "India vs England, 1st Test - Live Cricket Score"
-date: 2024-01-25T14:58:00.194+05:30
+date: 2024-01-25T15:41:38.950+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "ENG 246/9 (64.2) - Day 1: 3rd Session"
+  description: "IND 51/0 (7) - Day 1: 3rd Session - India trail by 195 runs"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - ENG 246/9 (64.2)  
+🔴 Live Score - IND 51/0 (7)  
 
-📊 Run Rate - CRR: 3.82  
+📊 Run Rate - CRR: 7.29  
 
-✊ Current Batsman - Ben Stokes - 70(87)  
+✊ Current Batsman - Yashasvi Jaiswal - 35(32)  
 
-✊ Current Bowler - Jasprit Bumrah - 8.2 Over 28 Run - 1 Wicket  
+✊ Current Bowler - Tom Hartley - 3 Over 34 Run - 0 Wicket  
 
-📑 Status - Day 1: 3rd Session
+📑 Status - Day 1: 3rd Session - India trail by 195 runs
 
 <!--more-->
 
-📝 Last Updated on : 1/25/2024, 2:58:00 PM
+📝 Last Updated on : 1/25/2024, 3:41:38 PM
