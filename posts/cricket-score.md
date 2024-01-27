@@ -1,26 +1,26 @@
 ---
 title: "India vs England, 1st Test - Live Cricket Score"
-date: 2024-01-27T11:02:22.355+05:30
+date: 2024-01-27T18:00:20.711+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "ENG 246 & 22/0 (6.2) - Day 3: 1st Session - England trail by 168 runs"
+  description: "ENG 246 & 316/6 (77) - Day 3: Stumps - England lead by 126 runs"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - ENG 246 & 22/0 (6.2)  
+🔴 Live Score - ENG 246 & 316/6 (77)  
 
-📊 Run Rate - CRR: 3.47  
+📊 Run Rate - CRR: 4.1  
 
-✊ Current Batsman - Zak Crawley - 18(23)  
+✊ Current Batsman - Rehan Ahmed - 16(31)  
 
-✊ Current Bowler - Axar Patel - 1.2 Over 4 Run - 0 Wicket  
+✊ Current Bowler - Ravichandran Ashwin - 21 Over 93 Run - 2 Wicket  
 
-📑 Status - Day 3: 1st Session - England trail by 168 runs
+📑 Status - Day 3: Stumps - England lead by 126 runs
 
 <!--more-->
 
-📝 Last Updated on : 1/27/2024, 11:02:22 AM
+📝 Last Updated on : 1/27/2024, 6:00:20 PM
