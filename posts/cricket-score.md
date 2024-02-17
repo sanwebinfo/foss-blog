@@ -1,26 +1,26 @@
 ---
 title: "India vs England, 3rd Test - Live Cricket Score"
-date: 2024-02-16T19:37:32.357+05:30
+date: 2024-02-17T11:23:17.430+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "ENG 207/2 (35) - Day 2: Stumps - England trail by 238 runs"
+  description: "ENG 288/5 (59) - Day 3: 1st Session - England trail by 157 runs"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - ENG 207/2 (35)  
+🔴 Live Score - ENG 288/5 (59)  
 
-📊 Run Rate - CRR: 5.91  
+📊 Run Rate - CRR: 4.88  
 
-✊ Current Batsman - Ben Duckett - 133(118)  
+✊ Current Batsman - Ben Stokes - 37(71)  
 
-✊ Current Bowler - Ravichandran Ashwin - 7 Over 37 Run - 1 Wicket  
+✊ Current Bowler - Mohammed Siraj - 15 Over 71 Run - 1 Wicket  
 
-📑 Status - Day 2: Stumps - England trail by 238 runs
+📑 Status - Day 3: 1st Session - England trail by 157 runs
 
 <!--more-->
 
-📝 Last Updated on : 2/16/2024, 7:37:32 PM
+📝 Last Updated on : 2/17/2024, 11:23:17 AM
