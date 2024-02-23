@@ -1,26 +1,26 @@
 ---
 title: "India vs England, 4th Test - Live Cricket Score"
-date: 2024-02-23T09:56:25.913+05:30
+date: 2024-02-23T11:28:21.233+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "ENG 9/0 (4.1) - Day 1: 1st Session"
+  description: "ENG 112/4 (23.5) - Day 1: 1st Session"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - ENG 9/0 (4.1)  
+🔴 Live Score - ENG 112/4 (23.5)  
 
-📊 Run Rate - CRR: 2.16  
+📊 Run Rate - CRR: 4.7  
 
-✊ Current Batsman - Zak Crawley - 5(18)  
+✊ Current Batsman - Joe Root - 16(40)  
 
-✊ Current Bowler - Mohammed Siraj - 2.1 Over 3 Run - 0 Wicket  
+✊ Current Bowler - Ravichandran Ashwin - 2.5 Over 17 Run - 1 Wicket  
 
 📑 Status - Day 1: 1st Session
 
 <!--more-->
 
-📝 Last Updated on : 2/23/2024, 9:56:25 AM
+📝 Last Updated on : 2/23/2024, 11:28:21 AM
