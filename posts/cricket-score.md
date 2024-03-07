@@ -1,26 +1,26 @@
 ---
 title: "India vs England, 5th Test - Live Cricket Score"
-date: 2024-03-07T10:51:34.823+05:30
+date: 2024-03-07T14:39:57.168+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "ENG 53/0 (16) - Day 1: 1st Session"
+  description: "ENG 212/8 (56.3) - Day 1: 3rd Session"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - ENG 53/0 (16)  
+🔴 Live Score - ENG 212/8 (56.3)  
 
-📊 Run Rate - CRR: 3.31  
+📊 Run Rate - CRR: 3.75  
 
-✊ Current Batsman - Ben Duckett - 22(51)  
+✊ Current Batsman - Ben Foakes - 23(40)  
 
-✊ Current Bowler - Ravichandran Ashwin - 1 Over 4 Run - 0 Wicket  
+✊ Current Bowler - Jasprit Bumrah - 12.3 Over 45 Run - 0 Wicket  
 
-📑 Status - Day 1: 1st Session
+📑 Status - Day 1: 3rd Session
 
 <!--more-->
 
-📝 Last Updated on : 3/7/2024, 10:51:34 AM
+📝 Last Updated on : 3/7/2024, 2:39:57 PM
