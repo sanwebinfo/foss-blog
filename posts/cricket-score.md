@@ -1,26 +1,20 @@
 ---
 title: "India vs England, 5th Test - Live Cricket Score"
-date: 2024-03-08T17:32:11.801+05:30
+date: 2024-03-09T20:19:41.984+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "IND 473/8 (120) - Day 2: Stumps - India lead by 255 runs"
+  description: "India vs England, 5th Test - Live Cricket Score - India won by an innings and 64 runs"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - IND 473/8 (120)  
+✅ India vs England, 5th Test - Live Cricket Score
 
-📊 Run Rate - CRR: 3.94  
-
-✊ Current Batsman - Jasprit Bumrah - 19(55)  
-
-✊ Current Bowler - Mark Wood - 15 Over 89 Run - 0 Wicket  
-
-📑 Status - Day 2: Stumps - India lead by 255 runs
+📑 Status - India won by an innings and 64 runs
 
 <!--more-->
 
-📝 Last Updated on : 3/8/2024, 5:32:11 PM
+📝 Last Updated on : 3/9/2024, 8:19:41 PM
