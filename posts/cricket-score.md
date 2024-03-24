@@ -1,20 +1,26 @@
 ---
-title: "Punjab Kings vs Delhi Capitals, 2nd Match - Live Cricket Score"
-date: 2024-03-23T21:36:54.397+05:30
+title: "Rajasthan Royals vs Lucknow Super Giants, 4th Match - Live Cricket Score"
+date: 2024-03-24T18:09:53.043+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "Punjab Kings vs Delhi Capitals, 2nd Match - Live Cricket Score - Punjab Kings won by 4 wkts"
+  description: "LSG 45/3 (5.4) - Lucknow Super Giants need 149 runs in 86 balls"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-✅ Punjab Kings vs Delhi Capitals, 2nd Match - Live Cricket Score
+🔴 Live Score - LSG 45/3 (5.4)  
 
-📑 Status - Punjab Kings won by 4 wkts
+📊 Run Rate - CRR: 7.94  
+
+✊ Current Batsman - KL Rahul - 14(14)  
+
+✊ Current Bowler - Ravichandran Ashwin - 0.4 Over 13 Run - 0 Wicket  
+
+📑 Status - Lucknow Super Giants need 149 runs in 86 balls
 
 <!--more-->
 
-📝 Last Updated on : 3/23/2024, 9:36:54 PM
+📝 Last Updated on : 3/24/2024, 6:09:53 PM
