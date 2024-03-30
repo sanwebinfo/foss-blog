@@ -1,6 +1,6 @@
 ---
 title: "Royal Challengers Bengaluru vs Kolkata Knight Riders, 10th Match - Live Cricket Score"
-date: 2024-03-29T23:20:42.650+05:30
+date: 2024-03-30T08:16:32.260+05:30
 author: Santhosh Veer
 tags:
   - Sports
@@ -17,4 +17,4 @@ comments:
 
 <!--more-->
 
-📝 Last Updated on : 3/29/2024, 11:20:42 PM
+📝 Last Updated on : 3/30/2024, 8:16:32 AM
