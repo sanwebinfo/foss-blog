@@ -1,26 +1,20 @@
 ---
-title: "Delhi Capitals vs Mumbai Indians, 43rd Match - Live Cricket Score"
-date: 2024-04-27T17:27:38.482+05:30
+title: "Gujarat Titans vs Royal Challengers Bengaluru, 45th Match - Live Cricket Score"
+date: 2024-04-28T12:42:45.047+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "DC 257/4 (20) - Innings Break"
+  description: "Gujarat Titans vs Royal Challengers Bengaluru, 45th Match - Live Cricket Score - Date: 2024-04-28 - Time: 03:30:00 PM (Indian Local Time)"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - DC 257/4 (20)  
+✅ Gujarat Titans vs Royal Challengers Bengaluru, 45th Match - Live Cricket Score
 
-📊 Run Rate - CRR: 12.85  
-
-✊ Current Batsman - Tristan Stubbs - 48(25)  
-
-✊ Current Bowler - Nuwan Thushara - 4 Over 56 Run - 0 Wicket  
-
-📑 Status - Innings Break
+📑 Status - Date: 2024-04-28 - Time: 03:30:00 PM (Indian Local Time)
 
 <!--more-->
 
-📝 Last Updated on : 4/27/2024, 5:27:38 PM
+📝 Last Updated on : 4/28/2024, 12:42:45 PM
