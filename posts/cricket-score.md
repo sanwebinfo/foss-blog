@@ -1,26 +1,20 @@
 ---
 title: "Lucknow Super Giants vs Mumbai Indians, 48th Match - Live Cricket Score"
-date: 2024-04-30T22:08:54.254+05:30
+date: 2024-05-01T10:21:06.315+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "LSG 46/1 (5.1) - Lucknow Super Giants need 99 runs in 89 balls"
+  description: "Lucknow Super Giants vs Mumbai Indians, 48th Match - Live Cricket Score - Lucknow Super Giants won by 4 wkts"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - LSG 46/1 (5.1)  
+✅ Lucknow Super Giants vs Mumbai Indians, 48th Match - Live Cricket Score
 
-📊 Run Rate - CRR: 8.9  
-
-✊ Current Batsman - Marcus Stoinis - 19(11)  
-
-✊ Current Bowler - Jasprit Bumrah - 1.1 Over 7 Run - 0 Wicket  
-
-📑 Status - Lucknow Super Giants need 99 runs in 89 balls
+📑 Status - Lucknow Super Giants won by 4 wkts
 
 <!--more-->
 
-📝 Last Updated on : 4/30/2024, 10:08:54 PM
+📝 Last Updated on : 5/1/2024, 10:21:06 AM
