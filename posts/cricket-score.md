@@ -1,6 +1,6 @@
 ---
 title: "Punjab Kings vs Chennai Super Kings, 53rd Match - Live Cricket Score"
-date: 2024-05-05T19:20:40.584+05:30
+date: 2024-05-05T23:22:29.513+05:30
 author: Santhosh Veer
 tags:
   - Sports
@@ -17,4 +17,4 @@ comments:
 
 <!--more-->
 
-📝 Last Updated on : 5/5/2024, 7:20:40 PM
+📝 Last Updated on : 5/5/2024, 11:22:29 PM
