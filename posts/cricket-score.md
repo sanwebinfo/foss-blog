@@ -1,26 +1,26 @@
 ---
 title: "India vs Ireland, 8th Match, Group A - Live Cricket Score"
-date: 2024-06-05T21:15:13.572+05:30
+date: 2024-06-05T22:06:48.274+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "IRE 77/8 (14.1) - India opt to bowl"
+  description: "IND 31/1 (4.2) - India need 66 runs in 94 balls"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - IRE 77/8 (14.1)  
+🔴 Live Score - IND 31/1 (4.2)  
 
-📊 Run Rate - CRR: 5.44  
+📊 Run Rate - CRR: 7.15  
 
-✊ Current Batsman - Joshua Little - 14(12)  
+✊ Current Batsman - Rohit Sharma - 21(16)  
 
-✊ Current Bowler - Jasprit Bumrah - 2.1 Over 4 Run - 1 Wicket  
+✊ Current Bowler - Mark Adair - 2.2 Over 13 Run - 1 Wicket  
 
-📑 Status - India opt to bowl
+📑 Status - India need 66 runs in 94 balls
 
 <!--more-->
 
-📝 Last Updated on : 6/5/2024, 9:15:13 PM
+📝 Last Updated on : 6/5/2024, 10:06:48 PM
