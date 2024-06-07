@@ -1,26 +1,20 @@
 ---
 title: "Canada vs Ireland, 13th Match, Group A - Live Cricket Score"
-date: 2024-06-07T20:33:44.125+05:30
+date: 2024-06-08T00:24:51.912+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "CAN 42/2 (6.4) - Ireland opt to bowl"
+  description: "Canada vs Ireland, 13th Match, Group A - Live Cricket Score - Canada won by 12 runs"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - CAN 42/2 (6.4)  
+✅ Canada vs Ireland, 13th Match, Group A - Live Cricket Score
 
-📊 Run Rate - CRR: 6.3  
-
-✊ Current Batsman - Pargat Singh - 18(13)  
-
-✊ Current Bowler - Craig Young - 1.4 Over 6 Run - 1 Wicket  
-
-📑 Status - Ireland opt to bowl
+📑 Status - Canada won by 12 runs
 
 <!--more-->
 
-📝 Last Updated on : 6/7/2024, 8:33:44 PM
+📝 Last Updated on : 6/8/2024, 12:24:51 AM
