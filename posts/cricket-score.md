@@ -1,11 +1,11 @@
 ---
 title: "Netherlands vs South Africa, 16th Match, Group D - Live Cricket Score"
-date: 2024-06-08T15:00:20.940+05:30
+date: 2024-06-09T09:46:48.739+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "Netherlands vs South Africa, 16th Match, Group D - Live Cricket Score - Date: 2024-06-08 - Time: 08:00:00 PM (Indian Local Time)"
+  description: "Netherlands vs South Africa, 16th Match, Group D - Live Cricket Score - South Africa won by 4 wkts"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
@@ -13,8 +13,8 @@ comments:
 
 ✅ Netherlands vs South Africa, 16th Match, Group D - Live Cricket Score
 
-📑 Status - Date: 2024-06-08 - Time: 08:00:00 PM (Indian Local Time)
+📑 Status - South Africa won by 4 wkts
 
 <!--more-->
 
-📝 Last Updated on : 6/8/2024, 3:00:20 PM
+📝 Last Updated on : 6/9/2024, 9:46:48 AM
