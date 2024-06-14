@@ -1,11 +1,11 @@
 ---
 title: "Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score"
-date: 2024-06-13T11:31:56.378+05:30
+date: 2024-06-14T07:43:39.409+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score - Date: 2024-06-13 - Time: 08:00:00 PM (Indian Local Time)"
+  description: "Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score - Bangladesh won by 25 runs"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
@@ -13,8 +13,8 @@ comments:
 
 ✅ Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score
 
-📑 Status - Date: 2024-06-13 - Time: 08:00:00 PM (Indian Local Time)
+📑 Status - Bangladesh won by 25 runs
 
 <!--more-->
 
-📝 Last Updated on : 6/13/2024, 11:31:56 AM
+📝 Last Updated on : 6/14/2024, 7:43:39 AM
