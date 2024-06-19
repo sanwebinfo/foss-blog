@@ -1,20 +1,20 @@
 ---
-title: "India vs Canada, 33rd Match, Group A - Live Cricket Score"
-date: 2024-06-16T09:59:24.678+05:30
+title: "United States vs South Africa, 41st Match, Super 8 Group 2 - Live Cricket Score"
+date: 2024-06-19T07:48:55.168+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "India vs Canada, 33rd Match, Group A - Live Cricket Score - Match abandoned due to wet outfield (no toss)"
+  description: "United States vs South Africa, 41st Match, Super 8 Group 2 - Live Cricket Score - Date: 2024-06-19 - Time: 08:00:00 PM (Indian Local Time)"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-✅ India vs Canada, 33rd Match, Group A - Live Cricket Score
+✅ United States vs South Africa, 41st Match, Super 8 Group 2 - Live Cricket Score
 
-📑 Status - Match abandoned due to wet outfield (no toss)
+📑 Status - Date: 2024-06-19 - Time: 08:00:00 PM (Indian Local Time)
 
 <!--more-->
 
-📝 Last Updated on : 6/16/2024, 9:59:24 AM
+📝 Last Updated on : 6/19/2024, 7:48:55 AM
