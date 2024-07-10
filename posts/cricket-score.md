@@ -1,20 +1,26 @@
 ---
-title: "Zimbabwe vs India, 1st T20I - Live Cricket Score"
-date: 2024-07-06T11:00:27.671+05:30
+title: "Zimbabwe vs India, 3rd T20I - Live Cricket Score"
+date: 2024-07-10T18:18:52.855+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "Zimbabwe vs India, 1st T20I - Live Cricket Score - Date: 2024-07-06 - Time: 04:30:00 PM (Indian Local Time)"
+  description: "ZIM 5/0 (0.5) - Zimbabwe need 178 runs"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-✅ Zimbabwe vs India, 1st T20I - Live Cricket Score
+🔴 Live Score - ZIM 5/0 (0.5)  
 
-📑 Status - Date: 2024-07-06 - Time: 04:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: Match Stats will Update Soon  
+
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+
+📑 Status - Zimbabwe need 178 runs
 
 <!--more-->
 
-📝 Last Updated on : 7/6/2024, 11:00:27 AM
+📝 Last Updated on : 7/10/2024, 6:18:52 PM
