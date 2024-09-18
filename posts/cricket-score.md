@@ -1,20 +1,20 @@
 ---
-title: "Sri Lanka vs India, 2nd T20I - Live Cricket Score"
-date: 2024-07-28T10:01:51.182+05:30
+title: "India vs Bangladesh, 1st Test - Live Cricket Score"
+date: 2024-09-18T13:22:08.455+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "Sri Lanka vs India, 2nd T20I - Live Cricket Score - Date: 2024-07-28 - Time: 07:00:00 PM (Indian Local Time)"
+  description: "India vs Bangladesh, 1st Test - Live Cricket Score - Date: 2024-09-19 - Time: 09:30:00 AM (Indian Local Time)"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-✅ Sri Lanka vs India, 2nd T20I - Live Cricket Score
+✅ India vs Bangladesh, 1st Test - Live Cricket Score
 
-📑 Status - Date: 2024-07-28 - Time: 07:00:00 PM (Indian Local Time)
+📑 Status - Date: 2024-09-19 - Time: 09:30:00 AM (Indian Local Time)
 
 <!--more-->
 
-📝 Last Updated on : 7/28/2024, 10:01:51 AM
+📝 Last Updated on : 9/18/2024, 1:22:08 PM
