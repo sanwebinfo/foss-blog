@@ -1,20 +1,26 @@
 ---
 title: "India vs Bangladesh, 1st Test - Live Cricket Score"
-date: 2024-09-18T13:22:08.455+05:30
+date: 2024-09-19T17:21:40.387+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "India vs Bangladesh, 1st Test - Live Cricket Score - Date: 2024-09-19 - Time: 09:30:00 AM (Indian Local Time)"
+  description: "IND 339/6 (80) - Day 1: Stumps"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-✅ India vs Bangladesh, 1st Test - Live Cricket Score
+🔴 Live Score - IND 339/6 (80)  
 
-📑 Status - Date: 2024-09-19 - Time: 09:30:00 AM (Indian Local Time)
+📊 Run Rate - CRR: 4.24  
+
+✊ Current Batsman - Ravindra Jadeja - 86(117)  
+
+✊ Current Bowler - Mominul Haque - 1 Over 4 Run - 0 Wicket  
+
+📑 Status - Day 1: Stumps
 
 <!--more-->
 
-📝 Last Updated on : 9/18/2024, 1:22:08 PM
+📝 Last Updated on : 9/19/2024, 5:21:40 PM
