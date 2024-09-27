@@ -1,26 +1,26 @@
 ---
 title: "India vs Bangladesh, 2nd Test - Live Cricket Score"
-date: 2024-09-27T10:41:41.400+05:30
+date: 2024-09-27T11:07:51.456+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "BAN 4/0 (1) - Day 1: 1st Session"
+  description: "BAN 26/0 (8) - Day 1: 1st Session"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - BAN 4/0 (1)  
+🔴 Live Score - BAN 26/0 (8)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 3.25  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Zakir Hasan - 0(21)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Akash Deep - 0 Over 0 Run - 0 Wicket  
 
 📑 Status - Day 1: 1st Session
 
 <!--more-->
 
-📝 Last Updated on : 9/27/2024, 10:41:41 AM
+📝 Last Updated on : 9/27/2024, 11:07:51 AM
