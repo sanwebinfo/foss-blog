@@ -1,20 +1,26 @@
 ---
-title: "India vs Bangladesh, 1st T20I - Live Cricket Score"
-date: 2024-10-07T08:31:31.337+05:30
+title: "India vs Bangladesh, 2nd T20I - Live Cricket Score"
+date: 2024-10-09T19:29:16.243+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "India vs Bangladesh, 1st T20I - Live Cricket Score - India won by 7 wkts"
+  description: "IND 41/3 (5.3) - Bangladesh opt to bowl"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-✅ India vs Bangladesh, 1st T20I - Live Cricket Score
+🔴 Live Score - IND 41/3 (5.3)  
 
-📑 Status - India won by 7 wkts
+📊 Run Rate - CRR: Match Stats will Update Soon  
+
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+
+📑 Status - Bangladesh opt to bowl
 
 <!--more-->
 
-📝 Last Updated on : 10/7/2024, 8:31:31 AM
+📝 Last Updated on : 10/9/2024, 7:29:16 PM
