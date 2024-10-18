@@ -1,26 +1,26 @@
 ---
 title: "India vs New Zealand, 1st Test - Live Cricket Score"
-date: 2024-10-17T10:07:25.470+05:30
+date: 2024-10-18T18:05:57.335+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "IND 9/1 (8.4) - Day 2: 1st Session"
+  description: "IND 46 & 231/3 (49) - Day 3: Stumps - India trail by 125 runs"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - IND 9/1 (8.4)  
+🔴 Live Score - IND 46 & 231/3 (49)  
 
-📊 Run Rate - CRR: 1.04  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Virat Kohli - 0(7)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - William ORourke - 0.4 Over 0 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Day 2: 1st Session
+📑 Status - Day 3: Stumps - India trail by 125 runs
 
 <!--more-->
 
-📝 Last Updated on : 10/17/2024, 10:07:25 AM
+📝 Last Updated on : 10/18/2024, 6:05:57 PM
