@@ -1,26 +1,20 @@
 ---
 title: "Australia vs India, 1st Test - Live Cricket Score"
-date: 2024-11-24T08:17:03.528+05:30
+date: 2024-11-25T14:16:58.209+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "IND 150 & 197/0 (62) - Day 3: 1st Session - India lead by 243 runs"
+  description: "Australia vs India, 1st Test - Live Cricket Score - India won by 295 runs"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - IND 150 & 197/0 (62)  
+✅ Australia vs India, 1st Test - Live Cricket Score
 
-📊 Run Rate - CRR: 3.18  
-
-✊ Current Batsman - KL Rahul - 74(171)  
-
-✊ Current Bowler - Mitchell Starc - 14 Over 55 Run - 0 Wicket  
-
-📑 Status - Day 3: 1st Session - India lead by 243 runs
+📑 Status - India won by 295 runs
 
 <!--more-->
 
-📝 Last Updated on : 11/24/2024, 8:17:03 AM
+📝 Last Updated on : 11/25/2024, 2:16:58 PM
