@@ -1,26 +1,26 @@
 ---
 title: "Australia vs India, 3rd Test - Live Cricket Score"
-date: 2024-12-14T08:00:18.308+05:30
+date: 2024-12-17T18:32:05.259+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "AUS 28/0 (13.2) - Day 1: Lunch Break"
+  description: "IND 252/9 (74.5) - Day 4: Stumps - India trail by 193 runs"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - AUS 28/0 (13.2)  
+🔴 Live Score - IND 252/9 (74.5)  
 
-📊 Run Rate - CRR: 2.1  
+📊 Run Rate - CRR: 3.37  
 
-✊ Current Batsman - Nathan McSweeney - 4(33)  
+✊ Current Batsman - Akash Deep - 27(31)  
 
-✊ Current Bowler - Akash Deep - 3.2 Over 2 Run - 0 Wicket  
+✊ Current Bowler - Pat Cummins - 20.5 Over 80 Run - 4 Wicket  
 
-📑 Status - Day 1: Lunch Break
+📑 Status - Day 4: Stumps - India trail by 193 runs
 
 <!--more-->
 
-📝 Last Updated on : 12/14/2024, 8:00:18 AM
+📝 Last Updated on : 12/17/2024, 6:32:05 PM
