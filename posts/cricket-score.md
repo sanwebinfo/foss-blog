@@ -1,20 +1,26 @@
 ---
 title: "Australia vs India, 4th Test - Live Cricket Score"
-date: 2024-12-25T09:58:39.650+05:30
+date: 2024-12-26T16:28:44.541+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "Australia vs India, 4th Test - Live Cricket Score - Date: 2024-12-26 - Time: 05:00:00 AM (Indian Local Time)"
+  description: "AUS 311/6 (86) - Day 1: Stumps"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-✅ Australia vs India, 4th Test - Live Cricket Score
+🔴 Live Score - AUS 311/6 (86)  
 
-📑 Status - Date: 2024-12-26 - Time: 05:00:00 AM (Indian Local Time)
+📊 Run Rate - CRR: 3.62  
+
+✊ Current Batsman - Steven Smith - 68(111)  
+
+✊ Current Bowler - Akash Deep - 19 Over 59 Run - 1 Wicket  
+
+📑 Status - Day 1: Stumps
 
 <!--more-->
 
-📝 Last Updated on : 12/25/2024, 9:58:39 AM
+📝 Last Updated on : 12/26/2024, 4:28:44 PM
