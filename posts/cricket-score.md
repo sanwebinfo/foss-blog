@@ -1,26 +1,26 @@
 ---
 title: "Australia vs India, 4th Test - Live Cricket Score"
-date: 2024-12-28T07:32:43.397+05:30
+date: 2024-12-29T07:01:49.857+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "IND 244/7 (73) - Day 3: Lunch Break - India trail by 230 runs"
+  description: "AUS 474 & 53/2 (24.4) - Day 4: 1st Session - Australia lead by 158 runs"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-🔴 Live Score - IND 244/7 (73)  
+🔴 Live Score - AUS 474 & 53/2 (24.4)  
 
-📊 Run Rate - CRR: 3.34  
+📊 Run Rate - CRR: 2.15  
 
-✊ Current Batsman - Washington Sundar - 5(27)  
+✊ Current Batsman - Steven Smith - 2(19)  
 
-✊ Current Bowler - Nathan Lyon - 15 Over 50 Run - 1 Wicket  
+✊ Current Bowler - Ravindra Jadeja - 0.4 Over 3 Run - 0 Wicket  
 
-📑 Status - Day 3: Lunch Break - India trail by 230 runs
+📑 Status - Day 4: 1st Session - Australia lead by 158 runs
 
 <!--more-->
 
-📝 Last Updated on : 12/28/2024, 7:32:43 AM
+📝 Last Updated on : 12/29/2024, 7:01:49 AM
