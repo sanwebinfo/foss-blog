@@ -1,20 +1,26 @@
 ---
 title: "Australia vs India, 5th Test - Live Cricket Score"
-date: 2025-01-02T18:20:47.100+05:30
+date: 2025-01-03T08:06:47.037+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "Australia vs India, 5th Test - Live Cricket Score - Date: 2025-01-03 - Time: 05:00:00 AM (Indian Local Time)"
+  description: "IND 71/3 (30.5) - Day 1: 2nd Session"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-✅ Australia vs India, 5th Test - Live Cricket Score
+🔴 Live Score - IND 71/3 (30.5)  
 
-📑 Status - Date: 2025-01-03 - Time: 05:00:00 AM (Indian Local Time)
+📊 Run Rate - CRR: 2.3  
+
+✊ Current Batsman - Virat Kohli - 17(66)  
+
+✊ Current Bowler - Pat Cummins - 9.5 Over 26 Run - 0 Wicket  
+
+📑 Status - Day 1: 2nd Session
 
 <!--more-->
 
-📝 Last Updated on : 1/2/2025, 6:20:47 PM
+📝 Last Updated on : 1/3/2025, 8:06:47 AM
