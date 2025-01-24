@@ -1,20 +1,20 @@
 ---
-title: "Australia vs India, 5th Test - Live Cricket Score"
-date: 2025-01-05T10:40:47.696+05:30
+title: "India vs England, 2nd T20I - Live Cricket Score"
+date: 2025-01-24T18:47:13.273+05:30
 author: Santhosh Veer
 tags:
   - Sports
 metas:
-  description: "Australia vs India, 5th Test - Live Cricket Score - Australia won by 6 wkts"
+  description: "India vs England, 2nd T20I - Live Cricket Score - Date: 2025-01-25 - Time: 07:00:00 PM (Indian Local Time)"
   image: https://ogimageblog.vercel.app/api/og?title=Cricket%20Score%20%F0%9F%8F%8F
 comments:
   src: https://mastodon.social/@mskian/111567563137946177
 ---
 
-✅ Australia vs India, 5th Test - Live Cricket Score
+✅ India vs England, 2nd T20I - Live Cricket Score
 
-📑 Status - Australia won by 6 wkts
+📑 Status - Date: 2025-01-25 - Time: 07:00:00 PM (Indian Local Time)
 
 <!--more-->
 
-📝 Last Updated on : 1/5/2025, 10:40:47 AM
+📝 Last Updated on : 1/24/2025, 6:47:13 PM
